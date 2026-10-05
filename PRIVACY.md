@@ -1,7 +1,7 @@
 # Privacy Policy — HomeScreen New Tab
 
 **Last updated:** 2026-10-05
-**Applies to:** HomeScreen New Tab (browser extension), versions 2.3.0 and later.
+**Applies to:** HomeScreen New Tab (browser extension), versions 2.4.0 and later.
 
 ---
 
@@ -76,6 +76,20 @@ download or execute remote code.
 
 The extension is suitable for all ages and collects no data from anyone, including
 children.
+
+## Payments and support links
+
+The extension contains links to the author's Patreon and Afdian (爱发电) pages
+inside the settings panel. These are ordinary web links:
+
+- They do not transmit any information about you when you simply view them.
+- They are only opened if **you** click them, in a new tab.
+- They are not affiliate links and do not carry any tracking code from this
+  extension.
+
+Supporting the project is entirely optional and has no effect on the extension's
+features. There is no paid tier, no locked functionality, and no data collection
+of any kind.
 
 ## Changes
 
